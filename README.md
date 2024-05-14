@@ -1,2 +1,0 @@
-# calculador-FinCal
-##FinCalc
